@@ -1,7 +1,10 @@
-# codeWARS
-This repository contains my solutions to the presented CODEWARS problems, all of them written in PYTHON.
-You will find the following programs:
+# CODEWARS KATA's
+This repository contains my solutions to the presented CODEWARS problems, or KATA as they put it, all of them written in PYTHON.
 
+My profile in the webpage is https://www.codewars.com/users/alcory
+
+
+Next, you will find an explanation to every document published in this repository
 
 ## Convert number to reversed array of digits
 

@@ -1,6 +1,8 @@
 # CODEWARS KATA's
 This repository contains my solutions to the presented CODEWARS problems, or KATA as they put it, all of them written in PYTHON.
 
+All the solutions are done by me, and despite the fact that they might not be the most clever or pretty, they are all 100% functional.
+
 My profile in the webpage is https://www.codewars.com/users/alcory
 
 
